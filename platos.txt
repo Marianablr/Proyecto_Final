@@ -1,0 +1,2 @@
+Chitos,2000,Comida,Si
+Pollito,25000,D1,Si
