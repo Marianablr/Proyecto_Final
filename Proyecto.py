@@ -776,10 +776,8 @@ espacio10.pack()
 ventana_agregar_pedido.withdraw()
 ventana_agregar_pedido.mainloop()  
 ventana_agregar_platos.mainloop()   
-
 ventana_mostrar_pedido.mainloop()
 ventana_mostrar_platos.mainloop()
-
 ventana_agregar_mesas.mainloop()
 ventana_pedidos.mainloop()
 ventana_mesas.mainloop()
